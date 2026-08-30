@@ -15,6 +15,13 @@
 </div>
 
 ## 作例
+検証済み作例（英語の自動コピー）：
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
 
 作例枠は確保済みです。検証可能な原作リンク、または 072 原文プロンプトに直接照合した追加作例が揃い次第ここで優先表示し、別番号の画像や壊れたプレースホルダーで代用しません。
 

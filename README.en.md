@@ -15,6 +15,13 @@
 </div>
 
 ## Samples
+Verified samples (English intelligent copy):
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
 
 Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 072 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
 

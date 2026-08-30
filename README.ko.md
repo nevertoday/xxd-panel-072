@@ -15,6 +15,13 @@
 </div>
 
 ## 예시
+검증된 예시(영문 자동 문구):
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
 
 예시 영역은 예약되어 있습니다. 검증 가능한 원작 링크나 072 원본 프롬프트와 직접 대조한 확장 예시가 준비되면 이곳에 먼저 표시하며, 다른 번호의 이미지나 깨진 자리표시자로 대신하지 않습니다.
 
