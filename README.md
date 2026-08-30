@@ -22,6 +22,13 @@
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 竖版上下样张**
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
 
 样张位已预留。收到可核验的原始发布链接或完成与 072 原始提示词逐项复核的扩展样张后，将在这里优先展示；在此之前不借用其他编号的图片，也不显示失效占位图。
 
