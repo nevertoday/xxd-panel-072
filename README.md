@@ -30,7 +30,7 @@
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 
-样张位已预留。收到可核验的原始发布链接或完成与 072 原始提示词逐项复核的扩展样张后，将在这里优先展示；在此之前不借用其他编号的图片，也不显示失效占位图。
+以上已展示 `sample-05`–`sample-12`：四张 16:9 横版左右样张与四张 3:4 竖版上下样张，均由 Panel 072 独立生成，不借用其他编号作品。
 
 <!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
