@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 072
+# 🦁 XXD Panel 072｜밝은 색채 저널
 
 ### 사진을 층이 있는 프로스트 유리 추상 시스템으로 정제합니다
 

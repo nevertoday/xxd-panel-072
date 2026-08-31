@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 072
+# 🦁 XXD Panel 072｜明亮色彩志
 
 ### 把照片提炼成有层次的雾面玻璃抽象视觉系统
 

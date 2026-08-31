@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 072
+# 🦁 XXD Panel 072｜Bright Color Journal
 
 ### Refine photographs into a layered frosted-glass abstract system
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 072
+# 🦁 XXD Panel 072｜明るい色彩手帳
 
 ### 写真を、層のあるすりガラス抽象システムへ洗練する
 
