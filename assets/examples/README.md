@@ -1,17 +1,17 @@
 # XXD Panel 072 samples
 
-Sample positions are reserved, but no image is bundled yet.
+This directory contains the reviewed extension samples displayed by all five localized project READMEs.
 
-- `sample-01`–`sample-04` are reserved for verifiable original works and their source post.
-- `sample-05`–`sample-08` are reserved for reviewed 16:9 left-right extensions.
-- `sample-09`–`sample-12` are reserved for reviewed 3:4 top-bottom extensions.
-- An extension must be generated directly from the Panel 072 canonical brief and documented with its own source mapping.
-- Images from another numbered Panel must never be copied here or presented as Panel 072 samples.
+## Original release slots
 
-## Verified generated samples
+- `sample-01`–`sample-04` remain reserved for verifiable original release works and their source post.
+- Generated extensions are identified separately and are never presented as original release samples.
 
-Panel 072 samples are generated independently from this Panel canonical prompt.
+## Reviewed extension samples
 
-- sample-05–sample-08: 16:9 horizontal left-right (1672×941; reality view left, transformed design right).
-- sample-09–sample-12: 3:4 vertical top-bottom (1086×1448; reality view above, transformed design below).
-- English intelligent copy requested; no workflow labels or cross-Panel images.
+- `sample-05`–`sample-08`: four 16:9 landscape left–right works (1672×941 PNG); the reality view is on the left and Panel 072's transformed design is on the right.
+- `sample-09`–`sample-12`: four approximately 3:4 portrait top–bottom works (nominally 1086×1448 PNG); the reality view is above and Panel 072's transformed design is below.
+- Each work was generated independently from Panel 072's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.
+- No artwork from another numbered Panel, broken placeholder, or banner is accepted as a sample.
+
+Canonical authority: `../../references/original-prompt/zh-CN.md`.

@@ -14,16 +14,23 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 072 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 072 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
