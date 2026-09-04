@@ -4,10 +4,6 @@
 
 ### 把照片提炼成有层次的雾面玻璃抽象视觉系统
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
-
 <strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
@@ -28,7 +24,7 @@
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-`sample-01`–`sample-04` 保留给未来可核验的原始发布样张。以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 072 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
+原始 X 样张及其可核验出处尚未提供，因此 `sample-01`–`sample-04` 暂不展示。以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 072 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
 
 <!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
@@ -361,7 +357,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别当前可用的编号 Skills；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN`（当前 001–072） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **士兵级** | `xxd-panel-NNN`（当前 001–112） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
 将军 Skill 是整个编号 Skills 队伍的总控入口。购买后即可使用，并获得安装、版本更新、队伍配置和调度方式的答疑。将军只负责组织与派发，不会改写、混合或覆盖士兵的原始美学；每张成品仍由被选中的士兵 Skill 独立完成。
 <!-- xxd-panel-command-system:end -->
