@@ -260,7 +260,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
 
-60 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+72 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。表には 001 から 072 までを欠番なく掲載し、現在のプロジェクトを太字で示します。
 
 | プロジェクト | スタイル特性 |
 |---|---|

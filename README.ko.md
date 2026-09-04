@@ -260,7 +260,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 전체 프로젝트 목록
 
-60개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에서 모든 프로젝트 주소와 핵심 스타일 특징을 확인할 수 있으며 현재 프로젝트는 굵게 표시됩니다.
+72개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에는 001부터 072까지 빠짐없이 나열하며 현재 프로젝트는 굵게 표시합니다.
 
 | 프로젝트 | 스타일 특징 |
 |---|---|

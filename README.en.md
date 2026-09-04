@@ -261,7 +261,7 @@ Full specifications: [Skill workflow](SKILL.md) · [source archive](references/o
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
 
-Each of the 60 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+Each of the 72 Panels preserves its own original brief and aesthetic logic. The table continuously lists every project from 001 through 072 with its defining style characteristics; the current project is bold.
 
 | Project | Style characteristics |
 |---|---|
