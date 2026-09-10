@@ -46,6 +46,15 @@ Many “frosted glass” treatments apply one blur across the whole image, losin
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -64,23 +73,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Core outline, structure, pose, and relationship remain; source hue identity is preserved before the canonical brief brightens, cleans, and softens it |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-lock outline, structure, pose, and narrative relationship → remove realistic detail → reduce to flat geometry and fine lines → build region-specific frosted, soft-focus, and translucent layers → preserve source hue identity while brightening and cleaning it → centre the subject in pale open space → add restrained modern editorial type
-```
-
-## Recognisable finished traits
-
-- Preserve only the most memorable identity, pose, contour, and narrative relationship instead of redrawing the full scene.
-- Summarise the subject with simple geometry, flat colour, fine lines, and open space while preserving its identifying features.
-- Give blur, defocus, and translucent overlap clear regional differences and hierarchy rather than one uniform effect.
-- Use centred balance, positive–negative form, scale, and pale open space to create a quiet suspended field.
-- Preserve the source's hue identity, then brighten, purify, de-grey, clean, and soften it; impose no outer fixed palette.
-- Keep typography sparse, modern, and refined, like editorial work from an international studio, architecture poster, or exhibition system.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-072-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
