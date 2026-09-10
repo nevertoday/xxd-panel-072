@@ -46,23 +46,6 @@ Many “frosted glass” treatments apply one blur across the whole image, losin
 
 <!-- xxd-human-intro:end -->
 
-## Usage tips
-
-- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
-- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
-- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
-- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
-- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
-- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
-
-## Original prompt · Five languages
-
-[简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
-
-The Chinese file preserves the user's wording verbatim and is the sole runtime creative authority. The other four files are faithful reading translations and never rewrite the generation prompt.
-
-**Signature:** translucent frosted windows · region-specific soft focus · minimalist geometry · recognisable silhouette · vivid healing colour · modern editorial type
-
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check
 
@@ -73,6 +56,49 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Core outline, structure, pose, and relationship remain; source hue identity is preserved before the canonical brief brightens, cleans, and softens it |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
+
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
+## Get started
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-072.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-072" ~/.codex/skills/xxd-panel-072
+```
+
+You can also install it directly with `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-072 --skill xxd-panel-072
+```
+
+The command fetches the repository from GitHub and installs the same-named Skill for the current agent. To install it in the user-level Codex Skills directory, append `--global --agent codex --yes`.
+
+Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-072`. Restart the agent session after installation.
+
+```text
+$xxd-panel-072
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-072-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-072-prompt.zh-CN.md)
+
+## Original prompt · Five languages
+
+[简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Chinese file preserves the user's wording verbatim and is the sole runtime creative authority. The other four files are faithful reading translations and never rewrite the generation prompt.
+
+**Signature:** translucent frosted windows · region-specific soft focus · minimalist geometry · recognisable silhouette · vivid healing colour · modern editorial type
+
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
@@ -220,31 +246,6 @@ Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Imag
 If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
 
 </details>
-
-## Get started
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-072.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-072" ~/.codex/skills/xxd-panel-072
-```
-
-You can also install it directly with `npx skills`:
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-072 --skill xxd-panel-072
-```
-
-The command fetches the repository from GitHub and installs the same-named Skill for the current agent. To install it in the user-level Codex Skills directory, append `--global --agent codex --yes`.
-
-Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-072`. Restart the agent session after installation.
-
-```text
-$xxd-panel-072
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
-```
-
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-072-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-072-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
