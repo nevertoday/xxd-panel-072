@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 072｜Bright Color Journal: abstracts the most recognisable outline, structure and pose of a photo into a centred, balanced minimal composition of simple geometric shapes, flat colour blocks and fine lines, layered as frosted-glass panes where some areas stay sharp, some are softly blurred and some overlap translucently (never one even blur), a cream or matched pale ground with wide whitespace, colours from the photo brightened and purified into clear blue, lake teal, fresh green, bright yellow, coral, peach and lilac, and an optional short English title, number or year in restrained modern editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-072 or asks for frosted-glass, glassmorphism-style abstract, soft-focus geometric or bright minimal poster art from a photo.",
+  "short_description": "明亮色彩志：把照片提炼成居中、分区柔焦的雾面玻璃几何抽象，配明亮治愈色",
+  "zh-CN": {
+    "name": "明亮色彩志",
+    "tagline": "把照片抽象成一组明亮的雾面玻璃几何，有的清晰，有的朦胧。",
+    "look": "主体最好认的轮廓、结构和姿态被概括成简单的几何形、平面色块和细线，居中摆放、左右平衡，仍能一眼看出来自上面那张照片。整块画面像几层磨砂玻璃叠在一起：有的局部清楚，有的柔焦，有的半透明透叠，不是整张均匀模糊；偶尔加几条横线、竖线或圆环增加秩序。颜色从照片取色后提亮、去灰，变成清澈蓝、湖水青、嫩绿、明黄、珊瑚橙、桃粉、淡紫，铺在米白或浅色底上，留白很多。可以加一个简洁的英文标题、编号或年份，字体现代克制。",
+    "traits": ["半透明磨砂视窗", "区域差异化模糊", "极简几何", "清晰轮廓", "明艳治愈色", "现代排版"],
+    "good": [
+      "轮廓和结构清楚的主体：一栋建筑、一把椅子、一只花瓶、一棵独立的树",
+      "形状简洁的自然景物：日出、海平线、一朵花、一座山",
+      "适合做展览或品牌视觉的单一物件：香水瓶、灯具、一杯饮品"
+    ],
+    "poor": [
+      "依赖细节和表情的照片：人像特写、多人互动、文字很多的场景",
+      "杂乱、没有明确主体的画面，几何化后会失去识别度",
+      "想要写实插画、卡通、塑料感毛玻璃滤镜或整张均匀虚化的需求"
+    ]
+  },
+  "en": {
+    "name": "Bright Color Journal",
+    "tagline": "Abstracts your photo into bright frosted-glass geometry, sharp in some places and hazy in others.",
+    "look": "The subject's most recognisable outline, structure and pose are reduced to simple geometric shapes, flat colour blocks and fine lines, centred and balanced, and still clearly from the photo above. The whole design looks like several layers of frosted glass: some areas stay crisp, some are softly blurred and some overlap translucently, never one even blur, with an occasional horizontal or vertical line or ring adding order. Colours are taken from the photo, then brightened and cleared into clean blue, lake teal, fresh green, bright yellow, coral, peach and lilac on a cream or pale ground with lots of empty space. A short English title, number or year can be added in restrained modern type.",
+    "traits": ["Translucent frosted panes", "Zoned blur", "Minimal geometry", "Clear outline", "Bright soothing colour", "Modern typography"],
+    "good": [
+      "Subjects with a clear outline and structure: a building, a chair, a vase, a lone tree",
+      "Simple natural forms: a sunrise, a sea horizon, a flower, a mountain",
+      "Single objects suited to exhibition or brand visuals: a perfume bottle, a lamp, a drink"
+    ],
+    "poor": [
+      "Photos that rely on detail and expression: close-up portraits, groups interacting, scenes full of text",
+      "Messy images with no clear subject, which lose recognisability once turned into geometry",
+      "Requests for realistic illustration, cartoons, a plastic glassmorphism filter or an even blur over everything"
+    ]
+  },
+  "ja": {
+    "name": "明るい色彩手帳",
+    "tagline": "写真を、くっきりした所とかすんだ所がある明るいすりガラスの幾何学に抽象化します。",
+    "look": "主役のいちばんわかりやすい輪郭、構造、姿勢を、簡単な幾何学形、平らな色面、細い線にまとめ、中央に左右の釣り合いよく置きます。それでも上の写真から来たものだとすぐわかります。画面全体はすりガラスを何枚か重ねたようで、くっきりした部分、柔らかくぼけた部分、半透明に重なる部分があり、全体が均一にぼけることはありません。ときどき横線、縦線、円環が秩序を加えます。色は写真から取って明るく澄ませ、澄んだ青、湖の青緑、若草色、明るい黄、コーラル、ピーチ、淡い紫にし、生成りや淡い色の地に余白を広くとります。短い英語のタイトル、番号、年号を、控えめな現代的書体で添えることもできます。",
+    "traits": ["半透明のすりガラス", "部分ごとのぼかし", "ミニマルな幾何学", "はっきりした輪郭", "明るく癒やしの色", "現代的な文字組み"],
+    "good": [
+      "輪郭と構造がはっきりした主役：建物、椅子、花瓶、一本だけ立つ木",
+      "形の簡潔な自然：日の出、水平線、一輪の花、山",
+      "展示やブランドのビジュアルに向く一つの物：香水瓶、照明器具、一杯の飲み物"
+    ],
+    "poor": [
+      "細部や表情に頼る写真：人物のアップ、複数人のやりとり、文字の多い場面",
+      "雑然として主役のない画像（幾何学にすると何かわからなくなります）",
+      "写実的なイラスト、漫画、プラスチックっぽいすりガラスフィルター、全体を均一にぼかす表現を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "밝은 색채 저널",
+    "tagline": "사진을 어떤 곳은 선명하고 어떤 곳은 흐릿한 밝은 반투명 유리 기하로 추상화합니다.",
+    "look": "주인공의 가장 알아보기 쉬운 윤곽, 구조, 자세를 단순한 기하 도형, 평면 색면, 가는 선으로 줄여 가운데에 균형 있게 놓습니다. 그래도 위의 사진에서 왔다는 것을 바로 알 수 있습니다. 화면 전체는 반투명 유리 여러 겹을 겹친 것처럼, 선명한 부분과 부드럽게 흐려진 부분, 반투명하게 겹친 부분이 섞여 있고 전체가 고르게 흐려지지는 않습니다. 가끔 가로선, 세로선, 원형 고리가 질서를 더합니다. 색은 사진에서 가져와 밝히고 탁기를 걷어 맑은 파랑, 호수 청록, 연두, 밝은 노랑, 코랄, 피치, 연보라로 바꾸고, 미색이나 연한 바탕에 여백을 넓게 둡니다. 짧은 영어 제목, 번호, 연도를 절제된 현대 서체로 넣을 수 있습니다.",
+    "traits": ["반투명 프로스트 창", "구역별 블러", "미니멀 기하", "선명한 윤곽", "밝고 편안한 색", "현대적 타이포그래피"],
+    "good": [
+      "윤곽과 구조가 분명한 주인공: 건물, 의자, 꽃병, 홀로 선 나무",
+      "형태가 간결한 자연: 해돋이, 수평선, 꽃 한 송이, 산",
+      "전시나 브랜드 비주얼에 어울리는 단일 사물: 향수병, 조명, 음료 한 잔"
+    ],
+    "poor": [
+      "세부와 표정에 기대는 사진: 인물 클로즈업, 여러 사람의 교감, 글자가 많은 장면",
+      "어수선하고 주인공이 없는 이미지(기하로 바꾸면 무엇인지 알 수 없게 됩니다)",
+      "사실적인 일러스트, 만화, 플라스틱 같은 유리 필터, 전체를 고르게 흐리는 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الألوان الزاهية",
+    "tagline": "يجرّد صورتك إلى هندسة مشرقة من الزجاج المصنفر، واضحة في مواضع وضبابية في أخرى.",
+    "look": "يُختزل أوضح محيط وبنية ووضعية للعنصر إلى أشكال هندسية بسيطة ومساحات لونية مسطّحة وخطوط رفيعة، توضع في الوسط بتوازن، وتبقى واضحة الانتماء إلى الصورة. يبدو التصميم كله كطبقات من الزجاج المصنفر: مناطق تبقى حادة، وأخرى ضبابية ناعمة، وثالثة تتراكب بشفافية، دون تمويه متساوٍ على الكل، مع خط أفقي أو عمودي أو حلقة أحياناً لإضفاء النظام. تُؤخذ الألوان من الصورة ثم تُرفع إشراقاً وتُصفّى إلى أزرق صافٍ وفيروزي البحيرة وأخضر طري وأصفر ساطع ومرجاني وخوخي وليلكي، على أرضية بلون الكريم أو لون فاتح مع فراغ كثير. ويمكن إضافة عنوان إنجليزي قصير أو رقم أو سنة بحرف حديث متقشّف.",
+    "traits": ["ألواح زجاج مصنفر شفافة", "تمويه متفاوت حسب المنطقة", "هندسة بسيطة", "محيط واضح", "ألوان مشرقة مريحة", "طباعة حديثة"],
+    "good": [
+      "عناصر ذات محيط وبنية واضحين: مبنى، كرسي، مزهرية، شجرة منفردة",
+      "أشكال طبيعية بسيطة: شروق الشمس، أفق البحر، زهرة، جبل",
+      "قطعة واحدة تناسب المعارض أو هوية العلامات: زجاجة عطر، مصباح، مشروب"
+    ],
+    "poor": [
+      "صور تعتمد على التفاصيل والتعابير: صور الوجوه القريبة، تفاعل مجموعات، مشاهد مليئة بالكتابة",
+      "صور فوضوية بلا عنصر واضح، تفقد قابلية التعرّف عند تحويلها إلى هندسة",
+      "طلب رسم واقعي أو كرتون أو فلتر زجاجي بلاستيكي أو تمويه متساوٍ على الصورة كلها"
+    ]
+  }
+}

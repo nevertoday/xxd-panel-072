@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-072"
-  short_description: "Create Panel 072 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-072; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "明亮色彩志：把照片提炼成居中、分区柔焦的雾面玻璃几何抽象，配明亮治愈色"
+  default_prompt: "Use $xxd-panel-072 to turn my photo into Bright Color Journal artwork."
 
 policy:
   allow_implicit_invocation: true

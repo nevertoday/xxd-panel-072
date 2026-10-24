@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-072
-description: "Create XXD Panel 072 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-072 or requests the exact Panel 072 style."
+description: "XXD Panel 072｜Bright Color Journal: abstracts the most recognisable outline, structure and pose of a photo into a centred, balanced minimal composition of simple geometric shapes, flat colour blocks and fine lines, layered as frosted-glass panes where some areas stay sharp, some are softly blurred and some overlap translucently (never one even blur), a cream or matched pale ground with wide whitespace, colours from the photo brightened and purified into clear blue, lake teal, fresh green, bright yellow, coral, peach and lilac, and an optional short English title, number or year in restrained modern editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-072 or asks for frosted-glass, glassmorphism-style abstract, soft-focus geometric or bright minimal poster art from a photo."
 ---
 
 # XXD Panel 072
